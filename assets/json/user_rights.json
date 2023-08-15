@@ -1,0 +1,587 @@
+{
+    "userrights_settings": [
+      {
+        "menuname": "Billing",
+        "value":false,
+        "permissions": [
+            {
+              "id":"Billing",
+              "permission":"View",
+              "value":false,
+              "checked":false
+            }
+           ]
+      },
+      {
+        "menuname": "Application",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Application",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Company",
+         "value":false,
+        "permissions": [
+          {
+            "id":"Company",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Company",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Company",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Company",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Setting",
+         "value":false,
+        "permissions": [
+          {
+            "id":"Setting",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Setting",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Setting",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Setting",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Outlet",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Outlet",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Outlet",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Outlet",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Outlet",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Tax Information",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Tax Information",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Tax Information",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Tax Information",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Tax Information",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Products",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Products",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Product List",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Product List",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product List",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product List",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product List",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Group",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Group",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Group",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Group",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Group",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Brand",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Brand",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Brand",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Brand",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Brand",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Unit",
+        "value":false,
+        "permissions": [
+            {
+              "id":"Unit",
+              "permission":"View",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Unit",
+              "permission":"Add",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Unit",
+              "permission":"Edit",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Unit",
+              "permission":"Delete",
+              "value":false,
+              "checked":false
+            }
+             ]
+      },
+      {
+        "menuname": "HSN Info",
+        "value":false,
+        "permissions": [
+          {
+            "id":"HSN Info",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"HSN Info",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"HSN Info",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"HSN Info",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Staff Details",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Staff Details",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Department",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Department",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Department",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Department",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Department",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Designation",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Designation",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Designation",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Designation",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Designation",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Persons",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Persons",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Client",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Client",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Client",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Client",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Client",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Supplier",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Supplier",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Supplier",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Supplier",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Supplier",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Staff",
+        "value":false,
+        "permissions": [
+            {
+              "id":"Staff",
+              "permission":"View",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Staff",
+              "permission":"Add",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Staff",
+              "permission":"Edit",
+              "value":false,
+              "checked":false
+            },
+            {
+              "id":"Staff",
+              "permission":"Delete",
+              "value":false,
+              "checked":false
+            }
+             ]
+      },
+      {
+        "menuname": "Users",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Users",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Users",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Users",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Users",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Report",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Report",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Bill Wise Report",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Bill Wise Report",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Bill Wise Report",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Bill Wise Report",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Bill Wise Report",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      },
+      {
+        "menuname": "Product Wise Report",
+        "value":false,
+        "permissions": [
+          {
+            "id":"Product Wise Report",
+            "permission":"View",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product Wise Report",
+            "permission":"Add",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product Wise Report",
+            "permission":"Edit",
+            "value":false,
+            "checked":false
+          },
+          {
+            "id":"Product Wise Report",
+            "permission":"Delete",
+            "value":false,
+            "checked":false
+          }
+           ]
+      }
+    ]
+  
+  }
